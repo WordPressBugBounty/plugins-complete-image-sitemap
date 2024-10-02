@@ -1,0 +1,1 @@
+# plugins-complete-image-sitemap
